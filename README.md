@@ -1,0 +1,1 @@
+# Change-Point-Analysis-of-Weighted-Exponential-Distribution
